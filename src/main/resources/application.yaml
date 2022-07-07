@@ -1,15 +1,4 @@
-spring:
-  application:
-    name: user-center
-
-  datasource:
-    url: jdbc:mysql://localhost:3306/chenlong?rewriteBatchedStatements=true&useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true
-    username: MySQL_Name
-    password: Your_Pasword
-    driver-class-name: com.mysql.jdbc.Driver
-    #session失效时间
-  session:
-    timeout: 86400
+#公共配置
 
 server:
   port: 8888

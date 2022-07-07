@@ -1,9 +1,7 @@
 #生产环境
 spring:
-  application:
-    name: user-center
   datasource:
-    url: jdbc:mysql://rm-bp1fa2vc92hmmo652co.mysql.rds.aliyuncs.com:3306/user-center?rewriteBatchedStatements=true&useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true&useSSH=false
+    url: jdbc:mysql://rm-bp1fa2vc92hmmo652co.mysql.rds.aliyuncs.com:3306/user-center?rewriteBatchedStatements=true&useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true
     username: chenlong
     password: CL2020love
     driver-class-name: com.mysql.jdbc.Driver

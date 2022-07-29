@@ -5,8 +5,8 @@ spring:
 
   datasource:
     url: jdbc:mysql://localhost:3306/chenlong?rewriteBatchedStatements=true&useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&allowMultiQueries=true
-    username: YouName
-    password: YourPassword
+    username: root
+    password: CL2020love
     driver-class-name: com.mysql.jdbc.Driver
     #session失效时间
   session:

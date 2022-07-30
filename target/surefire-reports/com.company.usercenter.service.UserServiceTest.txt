@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.company.usercenter.service.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.744 s <<< FAILURE! - in com.company.usercenter.service.UserServiceTest
+userRegister  Time elapsed: 0.066 s  <<< ERROR!
+com.company.usercenter.exception.BusinessException: 请求参数错误
+	at com.company.usercenter.service.UserServiceTest.userRegister(UserServiceTest.java:61)
+
+testGson  Time elapsed: 0.016 s  <<< ERROR!
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 2 path $
+	at com.company.usercenter.service.UserServiceTest.testGson(UserServiceTest.java:103)
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 2 path $
+	at com.company.usercenter.service.UserServiceTest.testGson(UserServiceTest.java:103)
+

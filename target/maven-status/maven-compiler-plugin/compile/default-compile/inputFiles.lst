@@ -1,0 +1,15 @@
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/service/UserService.java
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/model/request/UserRegisterRequest.java
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/model/request/UserLoginRequest.java
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/controller/UserController.java
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/model/domain/User.java
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/common/BaseResponse.java
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/UserCenterApplication.java
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/common/ErrorCode.java
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/exception/GlobalExceptionHandler.java
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/Utils/ResultUtils.java
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/service/impl/UserServiceImpl.java
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/Utils/GsonToObject.java
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/mapper/UserMapper.java
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/exception/BusinessException.java
+/Users/cl/Desktop/MYJavaProject/user-center/src/main/java/com/company/usercenter/constant/UserConstant.java

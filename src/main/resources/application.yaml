@@ -16,6 +16,7 @@ server:
   port: 8080
   servlet:
     context-path: /api #同一添加前缀
+  address: 0.0.0.0
 
 
 mybatis-plus:
